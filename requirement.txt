@@ -1,0 +1,4 @@
+torch == 2.8.0
+openai == 2.6.0
+vllm == 0.11.0
+numpy == 2.0.1
